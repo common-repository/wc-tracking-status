@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Tracking Status\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-27 13:35+0000\n"
+"PO-Revision-Date: 2021-12-27 13:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: diu-wc-tracking-status"
+
+#: wc-tracking-status.php:48
+msgid "WC Tracking Status requires PHP 5.5 or later!"
+msgstr ""
+
+#: wc-tracking-status.php:49
+msgid ""
+" Please upgrade your server to the latest version of PHP – contact your web "
+"host if you are unsure about how to do this."
+msgstr ""
+
+#: includes/admin/track-config.php:11
+msgid "WC Tracking"
+msgstr ""
+
+#: includes/admin/track-config.php:242
+msgid "Select Status Tracking"
+msgstr ""
+
+#: includes/admin/track-config.php:251
+msgid "Add items"
+msgstr ""
+
+#: includes/admin/track-config.php:277 includes/front/track-view.php:114
+msgid "ORDER INFORMATION"
+msgstr ""
+
+#: includes/admin/track-config.php:281
+msgid "Current status"
+msgstr ""
+
+#: includes/admin/track-config.php:289 includes/front/track-view.php:117
+msgid "Order number"
+msgstr ""
+
+#: includes/admin/track-config.php:297 includes/front/track-view.php:121
+msgid "Company name"
+msgstr ""
+
+#: includes/admin/track-config.php:305 includes/front/track-view.php:125
+msgid "Contact name"
+msgstr ""
+
+#: includes/admin/track-config.php:313
+msgid "Contact phone"
+msgstr ""
+
+#: includes/admin/track-config.php:321
+msgid "Order detail"
+msgstr ""
+
+#: includes/admin/track-config.php:327
+msgid "Product Name"
+msgstr ""
+
+#: includes/admin/track-config.php:328
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/track-config.php:329
+msgid "Sub Total"
+msgstr ""
+
+#: includes/admin/track-config.php:330 includes/front/track-view.php:168
+msgid "Total"
+msgstr ""
+
+#: includes/admin/track-config.php:349
+msgid "No items"
+msgstr ""
+
+#: includes/admin/track-config.php:359
+msgid "Update status order"
+msgstr ""
+
+#: includes/admin/track-config.php:381
+msgid "Add this shortcode into a Page or Post: "
+msgstr ""
+
+#: includes/admin/track-config.php:385
+msgid "Status to be tracked from"
+msgstr ""
+
+#: includes/admin/track-config.php:411
+msgid "Include information from plugin \"SEGUIMIENTO DE PEDIDO\""
+msgstr ""
+
+#: includes/admin/track-config.php:418
+msgid "No"
+msgstr ""
+
+#: includes/admin/track-config.php:419
+msgid "Yes"
+msgstr ""
+
+#: includes/front/track-view.php:10
+msgid "Your Tracking Status History"
+msgstr ""
+
+#: includes/front/track-view.php:129
+msgid "Contact telephone"
+msgstr ""
+
+#: includes/front/track-view.php:134
+msgid "Order notes"
+msgstr ""
+
+#: includes/front/track-view.php:143
+msgid "Tracking Number"
+msgstr ""
+
+#: includes/front/track-view.php:147
+msgid "Agency"
+msgstr ""
+
+#: includes/front/track-view.php:151
+msgid "Shipping Date"
+msgstr ""
+
+#: includes/front/track-view.php:157
+msgid "Order Detail"
+msgstr ""
+
+#: includes/front/track-view.php:164
+msgid "Nombre Producto"
+msgstr ""
+
+#: includes/front/track-view.php:165
+msgid "Cantidad"
+msgstr ""
+
+#: includes/front/track-view.php:166
+msgid "Sub-Total"
+msgstr ""
+
+#: includes/front/track-view.php:167
+msgid "Impuesto"
+msgstr ""
+
+#: includes/front/track-view.php:194
+msgid "Costo de envío"
+msgstr ""
+
+#: includes/front/track-view.php:201
+msgid "TOTAL"
+msgstr ""
+
+#: includes/front/track-view.php:209
+msgid "No existe información"
+msgstr ""
+
+#: includes/front/track-view.php:225
+msgid "No hay información para la orden ingresada No."
+msgstr ""
+
+#: includes/front/track-view.php:227
+msgid "Volver"
+msgstr ""
+
+#: includes/front/track-view.php:236 includes/front/track-view.php:238
+msgid "Número de orden"
+msgstr ""
+
+#: includes/front/track-view.php:243
+msgid "Tracking"
+msgstr ""
+
+#. Name of the plugin
+msgid "WC Tracking Status"
+msgstr ""
+
+#. Description of the plugin
+msgid "Update and show aditional states for tracking orders from woocommerce."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://gitlab.com/diurvan/wc-tracking-status.git"
+msgstr ""
+
+#. Author of the plugin
+msgid "diurvan Consultores"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://diurvanconsultores.com"
+msgstr ""
